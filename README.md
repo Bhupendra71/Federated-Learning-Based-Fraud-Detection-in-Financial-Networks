@@ -34,6 +34,8 @@ XGBoost was selected because it achieved the best ROC-AUC score and recall for f
 - Pandas, NumPy
 - Scikit-learn
 - XGBoost
+- Rnadom Forest
+- Precision Recall
 - Streamlit
 
 ---
