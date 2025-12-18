@@ -143,8 +143,4 @@ venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 streamlit run app.py
 
----
-👨‍💻 Author
 
-Built by Bhupendra Tomar
-Focused on practical machine learning and real-world deployment.
