@@ -27,7 +27,7 @@ st.write("Enter transaction details to predict fraud probability")
 # ===========================
 # User Inputs
 # ===========================
-amount = st.number_input("Transaction Amount (in ₦ )  ie.1000₦1 (Nigerian Naira) ≈ ₹150", min_value=0.0, step=100.0)
+amount = st.number_input("Transaction Amount (in ₦ )    ie. 1000 ₦(Nigerian Naira) ≈ ₹150", min_value=0.0, step=100.0)
 location = st.selectbox("Location", label_encoder.classes_)
 hour = st.slider("Hour of Transaction", 0, 23, 12)
 day_of_week = st.slider("Day of Week (0 = Monday, 6 = Sunday)", 0, 6, 3)
