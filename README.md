@@ -13,6 +13,14 @@ Banking fraud datasets are **highly imbalanced** — only a very small percentag
 The goal of this project is to **identify risky transactions and provide a fraud probability score**, instead of just a yes/no output.
 
 ---
+## 🔗 Live Demo
+
+🚀 Deployed using **Streamlit Cloud**
+
+👉 https://federated-learning-based-fraud-detection-in-financial-networks.streamlit.app/
+
+Users can interact with the application by entering transaction details and instantly receive a fraud risk probability.
+---
 
 ## 📊 Dataset
 
